@@ -1,0 +1,5 @@
+outs:
+- md5: f394a76557e8159e7649b176a0b317c8
+  size: 194764
+  hash: md5
+  path: heart_attack_india_3000.csv
