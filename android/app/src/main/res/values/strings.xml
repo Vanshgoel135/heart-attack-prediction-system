@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">HAPS — Heart Attack AI</string>
+    <string name="app_description">Heart Attack Prediction System using AI/ML</string>
+
+    <!-- Auth -->
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="logout">Logout</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_predict">Predict</string>
+    <string name="nav_history">History</string>
+    <string name="nav_insights">Insights</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Home -->
+    <string name="home_headline">AI-Powered Cardiac Risk Assessment</string>
+    <string name="home_subtitle">Advanced machine learning for early heart attack prediction</string>
+    <string name="quick_predict">Quick Predict</string>
+    <string name="view_history">View History</string>
+    <string name="model_insights">Model Insights</string>
+
+    <!-- Predict -->
+    <string name="run_prediction">Run AI Prediction</string>
+    <string name="fill_sample_data">Fill Sample Data</string>
+    <string name="clear_form">Clear Form</string>
+
+    <!-- Result -->
+    <string name="risk_level_high">High Risk</string>
+    <string name="risk_level_moderate">Moderate Risk</string>
+    <string name="risk_level_low">Low Risk</string>
+    <string name="risk_probability">Risk Probability</string>
+    <string name="top_factors">Top Contributing Factors</string>
+    <string name="recommendations">Medical Recommendations</string>
+    <string name="share_result">Share Result</string>
+    <string name="download_pdf">Download Report</string>
+
+    <!-- About -->
+    <string name="about_project">Heart Attack Prediction System</string>
+    <string name="about_institution">ABES Institute of Technology</string>
+    <string name="about_guide">Mr. Pradeep Kumar Kaushik</string>
+
+    <!-- Errors -->
+    <string name="error_network">Network error. Please check your connection.</string>
+    <string name="error_server">Server error. Please try again later.</string>
+    <string name="error_unauthorized">Session expired. Please log in again.</string>
+    <string name="error_unknown">An unexpected error occurred.</string>
+</resources>
